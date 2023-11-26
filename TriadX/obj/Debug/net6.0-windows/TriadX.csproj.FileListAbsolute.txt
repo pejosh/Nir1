@@ -1,0 +1,17 @@
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\TriadX.exe
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\TriadX.deps.json
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\TriadX.runtimeconfig.json
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\TriadX.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\TriadX.pdb
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.csproj.AssemblyReference.cache
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.Form1.resources
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.csproj.GenerateResource.cache
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.AssemblyInfoInputs.cache
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.AssemblyInfo.cs
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.csproj.CoreCompileInputs.cache
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\refint\TriadX.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.pdb
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.genruntimeconfig.cache
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\ref\TriadX.dll
