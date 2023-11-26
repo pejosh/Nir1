@@ -1,0 +1,11 @@
+../Core/Src/DS18B20.c:19:7:DS18B20_Test	8	static
+../Core/Src/DS18B20.c:37:7:DS18B20_CalculateTemperature	32	static,ignoring_inline_asm
+../Core/Src/DS18B20.c:75:6:DS18B20_TriggerConversion	8	static
+../Core/Src/DS18B20.c:89:6:DS18B20_GetScratchPad	8	static
+../Core/Src/DS18B20.c:111:9:DS18B20_ReadByte	16	static,ignoring_inline_asm
+../Core/Src/DS18B20.c:126:9:DS18B20_ReadBit	16	static
+../Core/Src/DS18B20.c:155:6:DS18B20_WriteByte	24	static
+../Core/Src/DS18B20.c:168:6:DS18B20_WriteBit	16	static
+../Core/Src/DS18B20.c:198:6:DS18B20_ResetSequence	16	static
+../Core/Src/DS18B20.c:249:6:DS18B20_OutputSet	24	static
+../Core/Src/DS18B20.c:264:6:DS18B20_InputSet	24	static

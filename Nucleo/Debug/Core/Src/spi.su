@@ -1,0 +1,12 @@
+../Core/Src/spi.c:30:6:MX_SPI2_Init	8	static
+../Core/Src/spi.c:62:6:HAL_SPI_MspInit	40	static
+../Core/Src/spi.c:99:6:HAL_SPI_MspDeInit	16	static
+../Core/Src/spi.c:126:9:TestSpi	16	static
+../Core/Src/spi.c:156:7:SpiConvertValue	24	static
+../Core/Src/spi.c:166:6:SpiChipSelectEnable	8	static
+../Core/Src/spi.c:172:6:SpiChipSelectDisable	8	static
+../Core/Src/spi.c:178:6:SpiRead	16	static
+../Core/Src/spi.c:192:6:SpiWrite	32	static
+../Core/Src/spi.c:211:6:SpiRxCallback	4	static,ignoring_inline_asm
+../Core/Src/spi.c:216:6:SpiTxCallback	4	static,ignoring_inline_asm
+../Core/Src/spi.c:221:6:SpiTxRxCallback	4	static,ignoring_inline_asm
