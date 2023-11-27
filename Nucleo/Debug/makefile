@@ -63,8 +63,8 @@ all: main-build
 main-build: Nir1.elf secondary-outputs
 
 # Tool invocations
-Nir1.elf Nir1.map: $(OBJS) $(USER_OBJS) C:\Users\JOSE\Documents\Work\Tech\Nir1\Nucleo\STM32F103R8TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "Nir1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"C:\Users\JOSE\Documents\Work\Tech\Nir1\Nucleo\STM32F103R8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Nir1.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
+Nir1.elf Nir1.map: $(OBJS) $(USER_OBJS) C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\Nucleo\STM32F103R8TX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "Nir1.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m3 -T"C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\Nucleo\STM32F103R8TX_FLASH.ld" --specs=nosys.specs -Wl,-Map="Nir1.map" -Wl,--gc-sections -static --specs=nano.specs -mfloat-abi=soft -mthumb -u _printf_float -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

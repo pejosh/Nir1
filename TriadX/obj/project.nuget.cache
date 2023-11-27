@@ -1,8 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "47zYC11haZ1ynGHkJNU2NXsc2Y0MNYQNReM6/zNViLGG4JubZfy+qOhQ9XyyHXHmuYQvtVPi7L4SBWVbP4fsEQ==",
+  "dgSpecHash": "fykFOxPHT0xj2NaepZ1+Rdztpz7C1ZAN08HTwEdVnoIz2nEFDUnlqB1aAJxgyw0ANVWfV21qMfFHJU4XJ/hFYA==",
   "success": true,
   "projectFilePath": "C:\\Users\\JOSE\\Documents\\Work\\Tech\\GIT\\Repos\\Nir1\\TriadX\\TriadX.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JOSE\\.nuget\\packages\\runtime.linux-arm.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\JOSE\\.nuget\\packages\\runtime.linux-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\JOSE\\.nuget\\packages\\runtime.linux-x64.runtime.native.system.io.ports\\8.0.0\\runtime.linux-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\JOSE\\.nuget\\packages\\runtime.native.system.io.ports\\8.0.0\\runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\JOSE\\.nuget\\packages\\runtime.osx-arm64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-arm64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\JOSE\\.nuget\\packages\\runtime.osx-x64.runtime.native.system.io.ports\\8.0.0\\runtime.osx-x64.runtime.native.system.io.ports.8.0.0.nupkg.sha512",
+    "C:\\Users\\JOSE\\.nuget\\packages\\system.io.ports\\8.0.0\\system.io.ports.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

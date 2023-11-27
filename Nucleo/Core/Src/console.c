@@ -17,7 +17,7 @@ bool DebugOutputEnabled = true;
 void ConsoleDebugDataFormat()
 {
 	__NOP();
-	sprintf((char*)UartTxBuffer, "#DBG: %.2f, %.2f ,%.2f \r\n",
+	sprintf((char*)UartTxBuffer, "#DBG: %.2f, %.2f ,%.2f\r",
 			 ConsoleDataStream.AdcValue, ConsoleDataStream.SpiValue, ConsoleDataStream.DS18B20Value);
 }
 

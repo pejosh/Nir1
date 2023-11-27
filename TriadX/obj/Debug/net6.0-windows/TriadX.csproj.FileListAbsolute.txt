@@ -15,3 +15,13 @@ C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows
 C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.pdb
 C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.genruntimeconfig.cache
 C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\ref\TriadX.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.FormComSettings.resources
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\System.IO.Ports.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libSystem.IO.Ports.Native.so
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libSystem.IO.Ports.Native.so
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libSystem.IO.Ports.Native.so
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libSystem.IO.Ports.Native.dylib
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.IO.Ports.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.IO.Ports.dll
+C:\Users\JOSE\Documents\Work\Tech\GIT\Repos\Nir1\TriadX\obj\Debug\net6.0-windows\TriadX.csproj.CopyComplete
